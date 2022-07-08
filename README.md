@@ -1,5 +1,5 @@
 # ReadWriteFiles
-Methods reading and writing data from documets
+Application rad all .txt files in directury (including inner directories) and sort by files name and write all read information to one newly created file
 
 
 For starting of program you have to open console in folder the .java file placed
